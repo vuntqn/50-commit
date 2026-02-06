@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6325cab8-f3c7-4401-a9f7-a05e960a3600" /><img width="1876" height="473" alt="image" src="https://github.com/user-attachments/assets/6f9e2113-a764-46e9-85e7-5f2d0c129f3e" /># 50-commit
+# 50-commit
 50 commit
 commit 1
 commit 2
